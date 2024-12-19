@@ -1,3 +1,9 @@
+I understand your instructions clearly. I will write a comprehensive guide on building a Chrome extension, formatted as a textbook for a computer science student. The guide will include all necessary code and scripts with detailed comments for better understanding. I will cover the following components: manifest file, service workers, content-script, popup folder, options folder, and icons folder. I will also provide information on any required APIs and their endpoints.
+
+Please provide the functionality of the Chrome extension you want me to describe, and I will create a detailed guide accordingly.
+
+---
+
 # Building a Chrome Extension: A Comprehensive Guide
 
 This guide will walk you through the process of building a Chrome extension, focusing on a specific functionality. We will cover the following components:
@@ -8,7 +14,7 @@ This guide will walk you through the process of building a Chrome extension, foc
 4. [Popup Folder](#popup-folder)
 5. [Options Folder](#options-folder)
 6. [Icons Folder](#icons-folder)
-7. [APIs and Endpoints](#apis-and-endpoints)
+7. [Chrome Extensions APIs and Endpoints](#chrome-extensions-apis-and-endpoints)
 
 ## Manifest File
 
@@ -174,4 +180,16 @@ console.log("Options page loaded.");
 
 The icons folder contains the various icon sizes required for your Chrome extension.
 
-## APIs and Endpoints
+## Chrome Extensions APIs and Endpoints
+
+Depending on the functionality of your Chrome extension, you may need to connect with various APIs and their endpoints. Please provide more details about the required functionality, and I will update this section accordingly.
+
+## Resources and Further Reading
+
+- [Chrome Extension Documentation](https://developer.chrome.com/docs/extensions/)
+- [Manifest File Format](https://developer.chrome.com/docs/extensions/mv3/manifest/)
+- [Service Workers](https://developer.chrome.com/docs/extensions/mv3/service_workers/)
+- [Content Scripts](https://developer.chrome.com/docs/extensions/mv3/content_scripts/)
+- [Popup and Options Pages](https://developer.chrome.com/docs/extensions/mv3/user_interface/)
+- [Icons](https://developer.chrome.com/docs/extensions/mv3/manifest/icons/)
+- [APIs and Endpoints](https://developer.chrome.com/docs/extensions/reference/)
